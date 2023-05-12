@@ -1,0 +1,5 @@
+VISIBILITY :
+1.private mekanisme kita untuk meatur properti yang hanya digunakan di dalam kelas
+2.protected mekanisme cara kita untuk menjaga fungsi method yang nantinya bisa diakses di dalam kelas atau kelas turunan nya
+3.public mekanisme yang dapat diakses di dalam class maupun di luar class
+
